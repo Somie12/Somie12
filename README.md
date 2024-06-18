@@ -6,7 +6,7 @@
   <div>
     <p>- 🌱 I’m currently learning : <strong> Full Stack Web Development</strong></p>
     <p>- 💬 Ask me about : <strong> Frontend Development, DSA</strong></p>
-    <p>- 📫 How to reach me : <strong>: surbhitiwary336@gmail.com</strong></p>
+    <p>- 📫 How to reach me : <strong> surbhitiwary336@gmail.com</strong></p>
   </div>
 </div>
 
