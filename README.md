@@ -1,4 +1,4 @@
-[![MasterHead](https://careers.dft.gov.uk/wp-content/uploads/2021/02/Coding-Banner-e1614953523376.jpg)](https://rishavchanda.io)
+[![MasterHead](https://careers.dft.gov.uk/wp-content/uploads/2021/02/Coding-Banner-e1614953523376.jpg)]()
 <h1 align="center">Hi 👋, I'm Surbhi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <div style="display: flex; align-items: center;">
@@ -19,6 +19,13 @@
   <a href="https://www.linkedin.com/in/surbhikumari125/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surbhikumari125" height="30" width="40" /></a>
   <a href="https://instagram.com/_somie_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_somie_._" height="30" width="40" /></a>
   <a href="https://medium.com/@surbhitiwary807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@surbhitiwary807" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Coding Profiles:</h3>
+<p align="left">
+  <a href="https://leetcode.com/u/Somie125/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/user/surbhitiwzgjz/" target="_blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" alt="GeeksforGeeks" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/surbhitiwary336" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
