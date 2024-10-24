@@ -87,7 +87,7 @@
   <a href="https://instagram.com/_somie_._" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="[https://medium.com/@surbhitiwary807](https://medium.com/@somie125)" target="_blank">
+  <a href="https://medium.com/@somie125" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
