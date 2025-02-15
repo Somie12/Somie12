@@ -18,7 +18,6 @@
         <p>Hi there! I'm <strong>Surbhi</strong>, a passionate <strong>Frontend Developer</strong> with a love for:</p>
         <ul>
           <li>💻 Diving deep into code, DSA, and <strong>Machine Learning</strong></li>
-          <li>🌲 Exploring the magic of <strong>Ghibli-like worlds</strong></li>
           <li>🍳 Cooking up new recipes and <strong>side projects</strong></li>
           <li>📚 Getting lost in the pages of feel-good novels and journaling my thoughts.</li>
           <li>🏀 Shooting hoops whenever I need to clear my mind.</li>
