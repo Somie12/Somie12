@@ -15,9 +15,9 @@
       </td>
       <td style="background-color: #fff9e6; padding: 15px; border: 1px solid #e0e0e0; border-radius: 10px;">
         <h3>🌿 About Me</h3>
-        <p>Hi there! I'm <strong>Surbhi</strong>, a passionate <strong>Frontend Developer</strong> with a love for:</p>
+        <p>Hi there! I'm <strong>Surbhi</strong>, a passionate <strong>Android Developer</strong> with a love for:</p>
         <ul>
-          <li>💻 Diving deep into code, DSA, and <strong>Machine Learning</strong></li>
+          <li>💻 Diving deep into code, DSA, Speech Synthesis and <strong>Machine Learning</strong></li>
           <li>🍳 Cooking up new recipes and <strong>side projects</strong></li>
           <li>📚 Getting lost in the pages of feel-good novels and journaling my thoughts.</li>
           <li>🏀 Shooting hoops whenever I need to clear my mind.</li>
